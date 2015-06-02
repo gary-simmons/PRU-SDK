@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-export PRU_SDK_DIR=/segfs/linux/pru_sdk
+export PRU_SDK_DIR=D:/BBB/pru_sdk
 export PRU_CGT_DIR=$PRU_SDK_DIR/pru_2.0.0B2
 
 
